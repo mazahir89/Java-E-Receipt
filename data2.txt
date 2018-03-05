@@ -1,0 +1,16 @@
+# Personer (nr, navn, fnr, adresse, postnr)
+0, Blah, 11111143521, Veigata 9, 1323
+1, Erik, 24120099343, Pillestedet 49, 0789
+2, Test, 10111224244, Storgata 67, 5341
+3, Name, 21049563451, Blåbærstien 423b, 1332
+
+# Legemidler (nr, navn, form, type, pris, antall/mengde, virkestoff [, styrke])
+0, Morfin, pille, a, 450, 50, 75, 8
+
+# Leger (navn, avtalenr / 0 hvis ingen avtale)
+Dr. Frankenstein, 1001
+
+# Resepter (nr, hvit/blå, persNummer, legeNavn, legemiddelNummer, reit)
+0, blå, 3, Dr. Frankenstein, 0, 2
+
+# Slutt

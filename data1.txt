@@ -1,0 +1,55 @@
+# Personer
+0, Jens Hans Olsen, 11111143521, Veigata 9, 1323
+1, Petrolina Swiq, 24120099343, Pillestedet 49, 0789
+2, Sven Svendsen, 10111224244, Storgata 67, 5341
+3, Juni Olsen, 21049563451, Blåbærstien 423b, 1332
+4, Pernille Pillebruker, 31129942342, Slottspark 1, 0412
+5, Johan-Niclas Ingmarson, 31018253352, Kokveien 782, 4502
+6, Kari Lise Krokstubbakken, 14055423423, Krokstubbakken 1, 7832
+7, Ane Rask, 29117091241, Akebakken 7, 3522
+8, Arne Seberg, 09036842342, Akebakken 7, 3522
+9, Anna Rask Seberg, 01049364352, Akebakken 7, 3522
+10, Inna Tharaldsrud, 14085535087, Jordstjerneveien 17, 1283
+11, Martin, 17128930348, Storgata 65, 0182
+12, Erik, 123456, Bjørvikgata 43, 0162
+
+# Legermidler
+0, Predizol, mikstur, a, 450, 50, 75, 8
+1, Paralgin, pille, b, 125, 4, 100, 5
+2, Peptidin, pille, a, 250, 10, 100, 10
+3, Cetrizin, pille, c, 390, 100, 10
+4, Lidokain, mikstur, b, 150, 100, 100, 2
+5, Pankuron, mikstur, c, 567, 50, 100
+6, Ibux, pille, c, 35, 10, 500
+
+# Leger
+Dr. Cox, 1001
+Dr. Dre, 0
+Dr. Hus, 63634
+Dr. Olsen, 0
+Dr. Oz, 342
+Dr. Phil, 0
+
+# Resepter
+0, Blå, 4, Dr. Oz, 2, 2
+1, Blå, 0, Dr. Phil, 1, 2
+2, Hvit, 4, Dr. Dre, 2, 0
+3, Hvit, 4, Dr. Cox, 2, 0
+4, Hvit, 4, Dr. Cox, 2, 2
+5, Blå, 4, Dr. Hus, 2, 4
+6, Hvit, 8, Dr. Hus, 0, 4
+7, Blå, 6, Dr. Hus, 3, 3
+8, Blå, 9, Dr. Phil, 5, 1
+9, Blå, 1, Dr. Phil, 4, 1
+10, Hvit, 3, Dr. Oz, 5, 2
+11, Blå, 2, Dr. Oz, 3, 2
+12, Hvit, 7, Dr. Dre, 0, 1
+13, Hvit, 4, Dr. Oz, 2, 0
+14, Blå, 2, Dr. Oz, 5, 0
+15, Hvit, 6, Dr. Hus, 3, 0
+16, Hvit, 0, Dr. Phil, 0, 1
+17, Blå, 9, Dr. Phil, 4, 0
+18, Blå, 10, Dr. Oz, 4, 5
+19, Hvit, 0, Dr. Phil, 1, 2
+
+# Slutt
